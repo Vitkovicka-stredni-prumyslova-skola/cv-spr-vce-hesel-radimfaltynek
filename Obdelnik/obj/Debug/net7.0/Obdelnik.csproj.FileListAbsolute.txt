@@ -27,3 +27,18 @@ C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dok
 C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\GitHub\OOP-C--temple\Obdelnik\obj\Debug\net7.0\Obdelnik.pdb
 C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\GitHub\OOP-C--temple\Obdelnik\obj\Debug\net7.0\Obdelnik.genruntimeconfig.cache
 C:\Users\MartinKapcala\OneDrive - Vítkovická střední průmyslová škola\Dokumenty\GitHub\OOP-C--temple\Obdelnik\obj\Debug\net7.0\ref\Obdelnik.dll
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\bin\Debug\net7.0\Obdelnik.exe
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\bin\Debug\net7.0\Obdelnik.deps.json
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\bin\Debug\net7.0\Obdelnik.runtimeconfig.json
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\bin\Debug\net7.0\Obdelnik.dll
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\bin\Debug\net7.0\Obdelnik.pdb
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.AssemblyInfoInputs.cache
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.AssemblyInfo.cs
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.csproj.CoreCompileInputs.cache
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.sourcelink.json
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.dll
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\refint\Obdelnik.dll
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.pdb
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\Obdelnik.genruntimeconfig.cache
+C:\Users\RadimFaltýnek\Documents\GitHub\cv-spr-vce-hesel-radimfaltynek\Obdelnik\obj\Debug\net7.0\ref\Obdelnik.dll
