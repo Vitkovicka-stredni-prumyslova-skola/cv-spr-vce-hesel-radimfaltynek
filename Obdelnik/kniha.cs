@@ -1,8 +1,8 @@
 using System;
 
-
 public class Kniha
 {
+    
     public string Nazev { get; set; }
     public string Autor { get; set; }
     public int RokVydani { get; set; }
@@ -14,16 +14,20 @@ public class Kniha
         RokVydani = rokVydani;
     }
 
-    public virtual void VypisInformace()
-        => Console.WriteLine($"Název: {Nazev}, Autor: {Autor}, Rok vydání: {RokVydani}");
-}
 
+    public virtual void VypisInformace()
+    {
+        Console.WriteLine($"Název: {Nazev}, Autor: {Autor}, Rok vydání: {RokVydani}");
+    }
+}
 
 public class Ebook : Kniha
 {
+    
     public double VelikostSouboru { get; set; }
     public string Format { get; set; }
 
+    
     public Ebook(string nazev, string autor, int rokVydani, double velikostSouboru, string format)
         : base(nazev, autor, rokVydani)
     {
@@ -31,6 +35,7 @@ public class Ebook : Kniha
         Format = format;
     }
 
+    
     public override void VypisInformace()
     {
         base.VypisInformace();
@@ -38,11 +43,12 @@ public class Ebook : Kniha
     }
 }
 
-
 public static class Knihovna
 {
-    public static int PocetKnih { get; private set; }
+    
+    public static int PocetKnih { get; private set; } = 0;
 
+    
     public static void PridatKnihu(Kniha kniha)
     {
         PocetKnih++;
@@ -50,12 +56,25 @@ public static class Knihovna
     }
 }
 
-
 public class Program
 {
     public static void Main()
     {
-        Knihovna.PridatKnihu(new Kniha("Velký Gatsby", "F. Scott Fitzgerald", 1925));
-        Knihovna.PridatKnihu(new Ebook("Digitální pevnost", "Dan Brown", 1998, 1.5, "PDF"));
+       
+        Kniha kniha1 = new Kniha("Velký Gatsby", "F. Scott Fitzgerald", 1925);
+        Ebook ebook1 = new Ebook("Digitální pevnost", "Dan Brown", 1998, 1.5, "PDF");
+
+        
+        kniha1.VypisInformace();
+        Console.WriteLine();
+
+        ebook1.VypisInformace();
+        Console.WriteLine();
+
+        Knihovna.PridatKnihu(kniha1);
+        Knihovna.PridatKnihu(ebook1);
+
+       
+        Console.WriteLine($"\nCelkový počet knih v knihovně: {Knihovna.PocetKnih}");
     }
 }
